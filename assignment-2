@@ -16,20 +16,23 @@ A planet is a <em>celestial</em> body, orbiting a star, that is massive enough t
 “I think of space not as the final frontier but as the next frontier.”
 — Neil Degrasse Tyson
 
-Unfortunately, Pluto is no longer a planet but a dwarf planet. Sometimes I think, Pluto still deserves full planet hood.
+<em>Unfortunately</em>, Pluto is no longer a planet but a dwarf planet. Sometimes I think, Pluto still deserves full <em>planet hood</em>.
 
-Terrestrial planets
+<h2>Terrestrial planets</h2>
 
-Mercury
-Venus
-Earth
-Mars
+<ol>
+  <li>Mercury</li>
+  <li>Venus</li>
+  <li>Earth</li>
+  <li>Mars</li>
+</ol>
 
-Mars
+<h2>Mars</h2>
 
 Mars is named after the Roman god of war, it is often described as the “Red Planet” because the iron oxide prevalent on its surface gives it a reddish appearance.
 
-A computer-generated image of Mars from real data.
+<img src="img/mars.jpg">
+<figcaption>A computer-generated image of Mars from real data.</figcaption>
 
 Semi-major axis:
 227 939 100 km
@@ -40,11 +43,12 @@ Orbital period:
 Mean radius:
 3389.5 km
 
-Venus
+<h3>Venus</h3>
 
 Venus is the second planet from the Sun, orbiting it every 224.7 Earth days.
 
-A real-colour image of Venus processed from two filters. The surface is obscured by a thick blanket of clouds.
+<img src="img/Venus.jpg">
+<figcaption> A real-colour image of Venus processed from two filters. The surface is obscured by a thick blanket of clouds.</figcaption>
 
 Semi-major axis:
 108 208 000 km
